@@ -1,7 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pyrix25633)
+[![Pyrix25633 GitHub stats](https://github-readme-stats.vercel.app/api?username=pyrix25633&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# Main repos
-
-|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pyrix25633&repo=Fabric-ImprovedEnd)|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pyrix25633&repo=backup-utility-cs)|
-|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pyrix25633&repo=Fabric-VanillaPlus)|![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pyrix25633&repo=github-updater)   |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrix25633&layout=compact&theme=tokyonight&hide=c)](https://github.com/anuraghazra/github-readme-stats)
